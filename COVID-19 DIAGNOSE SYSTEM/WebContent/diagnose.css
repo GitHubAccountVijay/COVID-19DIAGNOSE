@@ -1,0 +1,86 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: black;
+}
+/* header
+{
+    height: 100px;
+} */
+header div
+{
+    text-align: end;
+    background-color: rgb(44, 40, 40);
+    height: 10%;
+    width: 100%;
+}
+header div ul
+{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-right: 5%;
+}
+header div ul li
+{
+    list-style-type: none;
+    display: inline;
+    padding-left: 4%;
+    
+}
+header div ul li a{
+    text-decoration: none;
+    color: blanchedalmond;
+    font-size: 20px;
+}
+header div ul li a:hover{
+    color: lightblue;
+}
+#heading
+{
+    color: slateblue;
+    padding-left: 5%;
+    font-size: 20px;
+    margin-top: 5%;
+    
+}
+#virusanim
+{
+    width: 20%;
+    height: 400px;
+    float: right;
+    margin-right: 18%;
+    margin-top: -10%;
+}
+.scanbtn
+{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+.scanbtn ul
+{
+    list-style-type: none;
+}
+.scanbtn ul li button{
+    width: 200px;
+    height: 50px;
+    color: rgb(6, 9, 189);
+    font-size: 15px;
+    font-weight: bolder;
+    background-color: rgb(121, 231, 10);
+}
+#virusanim1
+{
+    width: 20%;
+    height: 400px;
+    float: right;
+    margin-right: 28%;
+    margin-top: 5%;
+}
+.details
+{
+    color: wheat;
+    margin-left: 10%;
+    margin-top: 5%;
+}
